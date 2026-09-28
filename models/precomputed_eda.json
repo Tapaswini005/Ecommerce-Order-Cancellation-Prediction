@@ -1,0 +1,219 @@
+{
+  "kpis": {
+    "total_orders": 25900,
+    "fulfilled_orders": 22064,
+    "cancelled_orders": 3836,
+    "cancellation_rate": 14.81,
+    "total_revenue": 10666684.54,
+    "lost_revenue": 896812.49,
+    "unique_customers": 4372
+  },
+  "hourly": [
+    {
+      "hour": 6,
+      "total": 22,
+      "cancelled": 21,
+      "cancellation_rate": 95.45
+    },
+    {
+      "hour": 7,
+      "total": 31,
+      "cancelled": 2,
+      "cancellation_rate": 6.45
+    },
+    {
+      "hour": 8,
+      "total": 624,
+      "cancelled": 54,
+      "cancellation_rate": 8.65
+    },
+    {
+      "hour": 9,
+      "total": 1824,
+      "cancelled": 234,
+      "cancellation_rate": 12.83
+    },
+    {
+      "hour": 10,
+      "total": 2961,
+      "cancelled": 397,
+      "cancellation_rate": 13.41
+    },
+    {
+      "hour": 11,
+      "total": 3165,
+      "cancelled": 523,
+      "cancellation_rate": 16.52
+    },
+    {
+      "hour": 12,
+      "total": 3961,
+      "cancelled": 498,
+      "cancellation_rate": 12.57
+    },
+    {
+      "hour": 13,
+      "total": 3369,
+      "cancelled": 430,
+      "cancellation_rate": 12.76
+    },
+    {
+      "hour": 14,
+      "total": 3137,
+      "cancelled": 400,
+      "cancellation_rate": 12.75
+    },
+    {
+      "hour": 15,
+      "total": 3069,
+      "cancelled": 401,
+      "cancellation_rate": 13.07
+    },
+    {
+      "hour": 16,
+      "total": 1952,
+      "cancelled": 400,
+      "cancellation_rate": 20.49
+    },
+    {
+      "hour": 17,
+      "total": 1205,
+      "cancelled": 304,
+      "cancellation_rate": 25.23
+    },
+    {
+      "hour": 18,
+      "total": 333,
+      "cancelled": 89,
+      "cancellation_rate": 26.73
+    },
+    {
+      "hour": 19,
+      "total": 219,
+      "cancelled": 73,
+      "cancellation_rate": 33.33
+    },
+    {
+      "hour": 20,
+      "total": 28,
+      "cancelled": 10,
+      "cancellation_rate": 35.71
+    }
+  ],
+  "day_of_week": [
+    {
+      "day_of_week": 0,
+      "total": 4138,
+      "cancelled": 718,
+      "day_name": "Mon",
+      "cancellation_rate": 17.35
+    },
+    {
+      "day_of_week": 1,
+      "total": 4722,
+      "cancelled": 749,
+      "day_name": "Tue",
+      "cancellation_rate": 15.86
+    },
+    {
+      "day_of_week": 2,
+      "total": 4815,
+      "cancelled": 673,
+      "day_name": "Wed",
+      "cancellation_rate": 13.98
+    },
+    {
+      "day_of_week": 3,
+      "total": 5660,
+      "cancelled": 971,
+      "day_name": "Thu",
+      "cancellation_rate": 17.16
+    },
+    {
+      "day_of_week": 4,
+      "total": 4184,
+      "cancelled": 551,
+      "day_name": "Fri",
+      "cancellation_rate": 13.17
+    },
+    {
+      "day_of_week": 6,
+      "total": 2381,
+      "cancelled": 174,
+      "day_name": "Sun",
+      "cancellation_rate": 7.31
+    }
+  ],
+  "top_countries": [
+    {
+      "country": "United Kingdom",
+      "total_orders": 23494,
+      "cancelled_orders": 3372,
+      "total_spend": 9840513.684,
+      "cancellation_rate": 14.35
+    },
+    {
+      "country": "Germany",
+      "total_orders": 603,
+      "cancelled_orders": 146,
+      "total_spend": 236036.07,
+      "cancellation_rate": 24.21
+    },
+    {
+      "country": "France",
+      "total_orders": 461,
+      "cancelled_orders": 69,
+      "total_spend": 222026.32,
+      "cancellation_rate": 14.97
+    },
+    {
+      "country": "EIRE",
+      "total_orders": 360,
+      "cancelled_orders": 72,
+      "total_spend": 303631.1,
+      "cancellation_rate": 20.0
+    },
+    {
+      "country": "Belgium",
+      "total_orders": 119,
+      "cancelled_orders": 21,
+      "total_spend": 41481.72,
+      "cancellation_rate": 17.65
+    },
+    {
+      "country": "Spain",
+      "total_orders": 105,
+      "cancelled_orders": 15,
+      "total_spend": 68379.64,
+      "cancellation_rate": 14.29
+    },
+    {
+      "country": "Netherlands",
+      "total_orders": 101,
+      "cancelled_orders": 6,
+      "total_spend": 286231.14,
+      "cancellation_rate": 5.94
+    },
+    {
+      "country": "Switzerland",
+      "total_orders": 74,
+      "cancelled_orders": 20,
+      "total_spend": 57794.45,
+      "cancellation_rate": 27.03
+    },
+    {
+      "country": "Portugal",
+      "total_orders": 71,
+      "cancelled_orders": 13,
+      "total_spend": 38127.18,
+      "cancellation_rate": 18.31
+    },
+    {
+      "country": "Australia",
+      "total_orders": 69,
+      "cancelled_orders": 12,
+      "total_spend": 139965.35,
+      "cancellation_rate": 17.39
+    }
+  ]
+}
